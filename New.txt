@@ -1,4 +1,4 @@
-file_1.txt md5 a34b43hdh5443232hw34
-file_2.bin md5 ugd445jjh448sbhdy748
-файл_3.bin sha1 b4343jg8590fnfjj854
-файл_4.txt sha256 b243a84937h849hdh82lr93930
+file_1.txt md5 64b8dcc3d4b7e531a9b1fda02c2cbefa
+file_2.bin md5 d41d8cd98f00b204e9800998ecf8427e
+файл_3.bin sha1 d6dc7b9c80a234881745848da30179d24d98587d
+файл_4.txt sha256 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
