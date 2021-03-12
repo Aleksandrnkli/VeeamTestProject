@@ -35,7 +35,7 @@ def check_integrity(infoline, dir):
     try:
         result_hash = chs(infoline['hash_type'], infoline['filename'], dir )
         if infoline['hash_key'] == result_hash:
-            return(' TRUE')
+            return(' OK')
         elif result_hash == 0:
             return(f' No such hash encoding type {infoline["hash_type"]}')
         else:
