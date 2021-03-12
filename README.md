@@ -1,7 +1,7 @@
 	# VeeamTestProject		
 	_Project created on Python 3.7
 	_Using sys and hashlib
-	_This projected was created as a test tasck for Veeam Software.
+	_This projected was created as a test task for Veeam Software.
 	_Sart of developing 11.02.2021
 	_____________________________________________________
 
