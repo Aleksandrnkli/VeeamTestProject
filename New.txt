@@ -1,0 +1,4 @@
+file_1.txt md5 a34b43hdh5443232hw34
+file_2.bin md5 ugd445jjh448sbhdy748
+файл_3.bin sha1 b4343jg8590fnfjj854
+файл_4.txt sha256 b243a84937h849hdh82lr93930
